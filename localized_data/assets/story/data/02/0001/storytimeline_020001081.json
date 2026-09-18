@@ -25,7 +25,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Even the whippersnappers know 'er. Ey, Star Horsegirl?"
+      "text": "Even the whippersnappers know 'er. Ey, Star Uma?"
     },
     {
       "name": "Mejiro McQueen",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Horsegirl with Straight-cut Bangs",
+      "name": "Uma with Straight-cut Bangs",
       "text": "McQueen, good news! It looks like there are a ton more people \nasking to transfer into our team!"
     },
     {
@@ -83,15 +83,15 @@
       "text": "My, the applications haven't stopped since the Kyoto Daishoten."
     },
     {
-      "name": "Horsegirl with Black Bob-cut",
+      "name": "Uma with Black Bob-cut",
       "text": "It's all thanks to your efforts, McQueen."
     },
     {
-      "name": "Horsegirl with Straight-cut Bangs",
+      "name": "Uma with Straight-cut Bangs",
       "text": "It would be super amazing if you could also win the autumn Tenno \nSho. Imagine winning both spring and fall!"
     },
     {
-      "name": "Droopy-eyed Horsegirl",
+      "name": "Droopy-eyed Uma",
       "text": "The number of new applicants would be through the roof!"
     },
     {
@@ -108,11 +108,11 @@
       "text": "It's been a while since Team Sirius has had this much attention. \nProbably not since the heyday of the last trainer."
     },
     {
-      "name": "Horsegirl with Straight-cut Bangs",
+      "name": "Uma with Straight-cut Bangs",
       "text": "Oh, we are <i>so</i> back."
     },
     {
-      "name": "Droopy-eyed Horsegirl",
+      "name": "Droopy-eyed Uma",
       "text": "You've got my front-row cheers!"
     },
     {
@@ -168,11 +168,11 @@
       "text": "I'm still feeling pretty good, so I'll be taking another lap."
     },
     {
-      "name": "Droopy-eyed Horsegirl",
+      "name": "Droopy-eyed Uma",
       "text": "Oh, then I'm going to go for another one, too."
     },
     {
-      "name": "Horsegirl with Black Bob-cut",
+      "name": "Uma with Black Bob-cut",
       "text": "Me too! If McQueen can still do it, so can we!"
     },
     {
@@ -180,7 +180,7 @@
       "text": "Hm? Please don't force yourselves…"
     },
     {
-      "name": "Horsegirl with Straight-cut Bangs",
+      "name": "Uma with Straight-cut Bangs",
       "text": "Nah, it's fine! Seeing you run gives us the power!",
       "choice_data_list": [
         "All right, just a bit more."

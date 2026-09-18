@@ -31,14 +31,14 @@
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "Ah, yes… Here you go.",
       "choice_data_list": [
         "Thanks, as always!"
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "N-No… The pleasure is mine. \nThank you for always reading."
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "name": "Writer C",
-      "text": "<i>In the present day, there is a horsegirl who carries on \nher legacy. A late bloomer who spent a quiet spring \nto blossom in the fall.</i>"
+      "text": "<i>In the present day, there is an Uma who carries on \nher legacy. A late bloomer who spent a quiet spring \nto blossom in the fall.</i>"
     },
     {
       "name": "Writer C",
@@ -69,62 +69,62 @@
       ]
     },
     {
-      "text": "It doesn't just introduce history, it ties into it by introducing \nactive horsegirls too — connecting the past to the present. \nThat was this column's great appeal.",
+      "text": "It doesn't just introduce history, it ties into it by introducing \nactive Umas too — connecting the past to the present. \nThat was this column's great appeal.",
       "choice_data_list": [
         "I wonder who the author… Writer C is?"
       ]
     },
     {
-      "text": "Muttering to myself, I checked my calendar. It looked \nlike the horsegirl featured in the column was scheduled \nto race on a Friday right after the new year.",
+      "text": "Muttering to myself, I checked my calendar. It looked \nlike the Uma featured in the column was scheduled \nto race on a Friday right after the new year.",
       "choice_data_list": [
         "I'll be free then, so maybe I should go!"
       ]
     },
     {
-      "text": "When the day arrived, I still had some time before the race, \nso I visited the Horsegirl Museum…",
+      "text": "When the day arrived, I still had some time before the race, \nso I visited the Uma Museum…",
       "choice_data_list": [
         "<size=32>Ah, it's the girl who always gives me the newspaper…</size>"
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "……Their will is still connected to the present day. \nI never get tired of watching it all…"
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "…Hehe. Maybe I'll go around one more time…"
     },
     {
-      "text": "After touring the Horsegirl Museum, I visited \nthe paddock and found her there as well."
+      "text": "After touring the Uma Museum, I visited \nthe paddock and found her there as well."
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "………………",
       "choice_data_list": [
-        "(W-Wow, she's so focused on taking \npictures of the horsegirls…)"
+        "(W-Wow, she's so focused on taking \npictures of the Umas…)"
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "…Hmm. I might've stopped down the lens too much. \nI'll open it up a bit more… and take a few more shots."
     },
     {
       "text": "Next, I spotted her in the stands, clutching a sports newspaper \nshe'd presumably bought this morning."
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "…At 2000 meters, this course also requires explosiveness… \nBut considering her last race was on the same course, and \nher closing sectional times… it won't be a problem."
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "Her trackwork and assessments from reporters have \nbeen excellent… Today's favorite is… number two. \nPeople are starting to take notice."
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "Number three was also looking good in the paddock, but… \non this track, she won't be outspurted. Plus, looking at it \nfrom a historical perspective…"
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "If she wins today, it'll be a real story."
     },
     {
@@ -135,74 +135,74 @@
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "<i>…Uhh… nghh…… hhgh…!</i>"
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "<i>Waaaaaah…!!</i>",
       "choice_data_list": [
         "(S-She's crying her eyes out…!?)"
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "<i>Hic, uuugh…</i> Ah…",
       "choice_data_list": [
         "Hey!? Are you okay!?"
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "S-Sorry… I didn't mean to worry you…",
       "choice_data_list": [
         "<size=35>You sure scared me, suddenly swaying like that</size>."
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "I-I'm really sorry… I'm fine now. \n…This just happens sometimes. I get dizzy…"
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "I put off eating today… I knew this would happen \nif I got too excited, but…",
       "choice_data_list": [
         "<size=34>Then you should get something to eat right away!</size>"
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "……U-Umm. Well…"
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "I can't do that…",
       "choice_data_list": [
         "Err… why not?"
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "I need to check the paddock… and the track entrances… \nSo, I don't have time to eat…"
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "I want to watch the next race closely too. \nEverything from the entrance to the actual race…"
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "Because history is born in races."
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "I want to be there to witness it. Not just through the data, \nbut on-site. Right there in the moment, I want to experience \nthat raw emotion for myself. "
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "Because that becomes a part of <i>my</i> history, too."
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "W-Wait, I-I'm sorry! I kind of went on a rant there…! \nThe point is, I just don't want to miss a single second \nof the races…!",
       "choice_data_list": [
         "I-I see…"
@@ -215,11 +215,11 @@
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "Good… A perfect start. …The pace is slow, too. \nJust as I predicted. Now she just has to hold out… \n<i>munch, munch…</i>"
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "Here she comes. Keep going… keep going…! ……<i>Phew</i>. \nHer pace and positioning were both perfect. A solid performance \nthat lived up to the crowd's expectations… <i>munch, munch…</i>",
       "choice_data_list": [
         "(She's multitasking like a pro…!)",
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "I'm so sorry for causing you so much trouble today…! \nNot only did you give me food… but I also showed you \nsuch a shameful side of myself…"
     },
     {
@@ -238,11 +238,11 @@
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "…Well, I wouldn't say I read it. Umm…"
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "I'm the one who wrote it…"
     }
   ]

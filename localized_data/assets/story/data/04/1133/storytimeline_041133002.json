@@ -9,7 +9,7 @@
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "E-Excuse me… I hope I'm not bothering your work, Trainer.",
       "choice_data_list": [
         "Oh, it's you! What brings you here today?",
@@ -17,11 +17,11 @@
       ]
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "Umm, well… I'm sorry about what happened \nat the Tokyo Racecourse…!"
     },
     {
-      "name": "PR Committee Horsegirl",
+      "name": "PR Committee Uma",
       "text": "For making you worry, and for the energy bar… So, today \nI came to apologize, and… although it's just a small token \nof my gratitude, I made some offal stew.",
       "choice_data_list": [
         "O-Offal stew? You put in all that effort for me?"
@@ -90,7 +90,7 @@
     },
     {
       "name": "Chrono Genesis",
-      "text": "…The track condition is good. Since there's distance before \nthe second and third corners, the battle for the front won't be \ntoo fierce. A nine horsegirl field. Predicted pacesetters: one."
+      "text": "…The track condition is good. Since there's distance before \nthe second and third corners, the battle for the front won't be \ntoo fierce. A nine Uma field. Predicted pacesetters: one."
     },
     {
       "name": "Chrono Genesis",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Chrono Genesis",
-      "text": "(The winning horsegirl back then was a pacer, \nso I'm not in a bad place.)"
+      "text": "(The winning Uma back then was a pacer, \nso I'm not in a bad place.)"
     },
     {
       "name": "Chrono Genesis",

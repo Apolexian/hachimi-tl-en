@@ -14,7 +14,7 @@
       "text": "And the Japan Cup is just a bonkers race, yeah? Finishin' fourth with \nall the other stars out there is pretty dang respectable."
     },
     {
-      "name": "Horsegirl with Straight-cut Bangs",
+      "name": "Uma with Straight-cut Bangs",
       "text": "She's right! I was just as enraptured with your running today as I have \never been!"
     },
     {
@@ -207,15 +207,15 @@
       "text": "Mmkay. Well, I guess I'll go loiter around the academy road and near \nthe station."
     },
     {
-      "name": "Horsegirl with Straight-cut Bangs",
+      "name": "Uma with Straight-cut Bangs",
       "text": "I'll go see if she went back to the academy!"
     },
     {
-      "name": "Droopy-eyed Horsegirl",
+      "name": "Droopy-eyed Uma",
       "text": "And I'll go looking around the racecourse!"
     },
     {
-      "name": "Horsegirl with Black Bob-cut",
+      "name": "Uma with Black Bob-cut",
       "text": "Maybe she went to the shrine? I'll drop by and check!",
       "choice_data_list": [
         "Thank you, all of you. Let's go!",

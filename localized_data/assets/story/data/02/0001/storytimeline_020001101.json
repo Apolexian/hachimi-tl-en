@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Announcer",
-      "text": "The judges have ruled that first-place finisher Mejiro McQueen \nillegally obstructed other horsegirl during the race."
+      "text": "The judges have ruled that first-place finisher Mejiro McQueen \nillegally obstructed other Uma during the race."
     },
     {
       "name": "Announcer",
@@ -43,11 +43,11 @@
       "text": "Just don't be so hard on yourself, okay? We can plainly see that \nyou've reflected well enough on this."
     },
     {
-      "name": "Horsegirl with Straight-cut Bangs",
+      "name": "Uma with Straight-cut Bangs",
       "text": "That's right! I'll be looking forward to your next race!"
     },
     {
-      "name": "Droopy-eyed Horsegirl",
+      "name": "Droopy-eyed Uma",
       "text": "Fight on, McQueen!",
       "choice_data_list": [
         "Let's treat this as a learning experience."
