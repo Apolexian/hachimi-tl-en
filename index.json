@@ -1,6 +1,6 @@
 {
-  "base_url": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/localized_data",
-  "zip_url": "https://codeload.github.com/UmaTL/hachimi-tl-en/zip/refs/heads/release",
+  "base_url": "https://raw.githubusercontent.com/Apolexian/hachimi-tl-en/release/localized_data",
+  "zip_url": "https://codeload.github.com/Apolexian/hachimi-tl-en/zip/refs/heads/release",
   "zip_dir": "hachimi-tl-en-release/localized_data",
   "files": [
     {
@@ -19440,8 +19440,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "dd94d2a32a978e0644401ef9c9bbc2f5bd6feec34e7608c5754240e9b97f0ff0",
-      "size": 3412851
+      "hash": "27062aaa9846fd744e37f185f35f794ff01e039c0671f0c9359c02d3db8e19bb",
+      "size": 3527093
     }
   ]
 }
