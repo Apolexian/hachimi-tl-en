@@ -19395,8 +19395,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "bbc0b09b618b1bc6eeb0a31153e81a1306999494bae3c58da08b95fcaae2d255",
-      "size": 1020851
+      "hash": "ce0cc97ea729a792449dd47826856243b19bdf41d9f219909546cc487dec3208",
+      "size": 1020231
     },
     {
       "path": "config.json",
@@ -19405,8 +19405,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "87427bd96b3330502c0143f934742684a054b6506f38633d09fc663db7ce6394",
-      "size": 15192
+      "hash": "e5e0af23195a23aec5d0984ae1ce380f8e179f0473fd17041988ac31aee49054",
+      "size": 15141
     },
     {
       "path": "includes_android",
@@ -19425,13 +19425,13 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "776a5316daf9900adaeb49ac854843d135a17853c83b238e9bd29ed5d452a52e",
-      "size": 440632
+      "hash": "224faa45dea946ebb46535ee9e1a56b51740f643471ee89c39f0c216b28bf4e0",
+      "size": 438573
     },
     {
       "path": "race_jikkyo_comment_dict.json",
-      "hash": "397996a8698112c8828f667c6c3516cde02323f420574a351afe4438ef8d43d4",
-      "size": 24033
+      "hash": "f4f09898d4c40a94883335b7942be36ee49a071900ecb234501d20a83526c52a",
+      "size": 23925
     },
     {
       "path": "race_jikkyo_message_dict.json",
@@ -19440,8 +19440,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "fd04097d84eb8b2a110391790097470257fad05c40163582f5351024ad8227ba",
-      "size": 3557564
+      "hash": "90231346ebf28b6fdc3c006d163dfe767b8cdb990d3cf009e08c1e86b45c00ce",
+      "size": 3539207
     }
   ]
 }
