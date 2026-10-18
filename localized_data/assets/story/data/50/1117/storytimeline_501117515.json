@@ -1,0 +1,205 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Nice Nature",
+            "text": "I heard all about it, Shion~! \nYou were the star of the practice race, they say?"
+        },
+        {
+            "name": "Win Variation",
+            "text": "Ehehe...! ...Yes! \nI was in much better form than usual...!"
+        },
+        {
+            "name": "Win Variation",
+            "text": "Although... everyone really is strong. \nThey have talents I don't. I'm envious."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ahhh~, I know the feeling. \nA razor-sharp closing kick, stamina that just won't quit."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You want a \"weapon,\" don't you~. \nSomething to go toe-to-toe with the sparkly genius types."
+        },
+        {
+            "name": "Win Variation",
+            "text": "A weapon... a weapon, huh... \nWhat have I got, I wonder?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Found Nature and Shion~! \nHey, hey, you two play with Turbo and the others!"
+        },
+        {
+            "name": "Win Variation",
+            "text": "Over here, Mr. Oni♪ Follow the clapping♪"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hmmm...! Over... here~~...?"
+        },
+        {
+            "name": "",
+            "text": "Lunch break. I spotted Win Variation \nplaying with the other horsegirls, \nso I called out to her.",
+            "choice_data_list": [
+                "What are you doing?",
+                "What are you doing?"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "Blindfolded tag. We take turns being the oni \nand compete over how many we can catch."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "The oni closes their eyes and goes after people \nby the sound of clapping, but it's surprisingly hard."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Is Shion's trainer interested too? \nYou can join Turbo and the others!",
+            "choice_data_list": [
+                "Haha, thank you. All right...!",
+                "Hehe, thank you. All right...!"
+            ]
+        },
+        {
+            "name": "",
+            "text": "And so I closed my eyes \nand took a turn as the oni, but..."
+        },
+        {
+            "name": "Umas",
+            "text": "Over here, Mr. Oni♪ Follow the clapping♪",
+            "choice_data_list": [
+                "(This way? But it's kind of scary to walk...)"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hmm... It seems Shion's trainer \ndidn't fare very well either.",
+            "choice_data_list": [
+                "Harder than I expected... being the oni",
+                "Harder than I expected... being the oni"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Right~? Even when you know the direction, \nit's weirdly hard to walk in a straight line."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "All right, Shion's the next oni, then. \nReady?"
+        },
+        {
+            "name": "Win Variation",
+            "text": "Yes! I'll do my best~!"
+        },
+        {
+            "name": "Umas",
+            "text": "Over here, Mr. Oni♪ Follow the clapping♪"
+        },
+        {
+            "name": "Win Variation",
+            "text": "Hmm, over this way?"
+        },
+        {
+            "name": "",
+            "text": "Win Variation closes her eyes and starts walking. \nI thought she'd have a hard time of it too, but..."
+        },
+        {
+            "name": "",
+            "text": "(Stride, stride, stride...)",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "Hah!"
+        },
+        {
+            "name": "Win Variation",
+            "text": "Right there!"
+        },
+        {
+            "name": "Win Variation",
+            "text": "You're not getting away!"
+        },
+        {
+            "name": "",
+            "text": "Win Variation caught one horsegirl after another. \nHer footing was completely steady.",
+            "choice_data_list": [
+                "How can she walk so steadily...?"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "! That voice... you're over here."
+        },
+        {
+            "name": "Win Variation",
+            "text": "--Trainer, caught you!"
+        },
+        {
+            "name": "",
+            "text": "In the end, the oni who caught the most that day \nwas Win Variation."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "And so the winner, Shion, \ngets treated to a carrot juice~!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "It's amazing, isn't it~. Even with her eyes closed, \nshe just goes stride-stride~~... mm!"
+        },
+        {
+            "name": "Win Variation",
+            "text": "Um... is that amazing? \nIf it's somewhere I know well, \nI can walk with my eyes closed, but..."
+        },
+        {
+            "name": "Sounds of Earth",
+            "text": "Fantastico!! \nShion, che talento!!"
+        },
+        {
+            "name": "Royce and Royce",
+            "text": "Yes. You could really make that quality your selling point! \nAs the \"eyes-closed horsegirl\"!"
+        },
+        {
+            "name": "Win Variation",
+            "text": "Whaaat...?! \nNo, you're praising me far too much...",
+            "choice_data_list": [
+                "No! It's a fine talent!",
+                "Maybe we could use this in training?"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "Talent... A talent, huh..."
+        },
+        {
+            "name": "Win Variation",
+            "text": "......H-Huh? \nWhat is this...?"
+        },
+        {
+            "name": "Win Variation",
+            "text": "It's a little warm... maybe... ehehe."
+        },
+        {
+            "name": "Win Variation",
+            "text": "What, really?!"
+        },
+        {
+            "name": "",
+            "text": "Some days later. Making use of Win Variation's knack, \nI put together training to sharpen her five senses \nand her sense of balance."
+        },
+        {
+            "name": "Win Variation",
+            "text": "I always thought being able to walk with my eyes closed \nwas no use at all in a race, but...",
+            "choice_data_list": [
+                "I think there are abilities only you can sharpen, Shion"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "Because it's me--...! \nYes, I'll show you what I can do...!"
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "One day. Stepping into the library, I found \nWin Variation deep in a book. \nThe title was...",
+            "choice_data_list": [
+                "(“Mental Training Made Easy”?)"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "Ah, Trainer.",
+            "choice_data_list": [
+                "Shion, what's that book?"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "This? Well... I've been wanting to get better \nat turning the murky feelings into strength. \nSo I'm studying up on the mental side."
+        },
+        {
+            "name": "Win Variation",
+            "text": "It's just, there are so many different methods \nthat I can't tell which one is right...",
+            "choice_data_list": [
+                "Then let's try them together and find a good one"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "Really? \nThank you!"
+        },
+        {
+            "name": "Win Variation",
+            "text": "First, deep breathing, to settle the nerves. \nApparently it works better if you picture \nsomething pleasant as you breathe in.",
+            "choice_data_list": [
+                "What would you picture, Shion?"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "Let me see... \nFreshly picked apples, all crisp and juicy?"
+        },
+        {
+            "name": "Win Variation",
+            "text": "A vast apple orchard... with the harvest \npiled high in baskets--..."
+        },
+        {
+            "name": "Win Variation",
+            "text": "...I feel like I can smell them...! \nI'm going to fill my lungs with this air...!"
+        },
+        {
+            "name": "Win Variation",
+            "text": "......Haaah......",
+            "choice_data_list": [
+                "Haaah......"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "Next is the power pose. Apparently if you strike \na confident pose, you actually become confident."
+        },
+        {
+            "name": "Win Variation",
+            "text": "Like this one, for example...!"
+        },
+        {
+            "name": "Win Variation",
+            "text": "And one like this...!",
+            "choice_data_list": [
+                "Then I'll join in--ta-daa!",
+                "Then I'll join in--ta-daa!"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "Ahaha, that's a good one!"
+        },
+        {
+            "name": "Win Variation",
+            "text": "Let's keep the poses coming~! \n--Hup!"
+        },
+        {
+            "name": "Win Variation",
+            "text": "Fifty-one... fifty-two... fifty-three... \n......",
+            "choice_data_list": [
+                "All right, that's one minute",
+                "All right, that's one minute"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "--...There. I've got it. \nMy pulse when I'm relaxed."
+        },
+        {
+            "name": "Win Variation",
+            "text": "Ideally I'd be able to return to this condition \nwhenever I need to.",
+            "choice_data_list": [
+                "Yeah, that's right!",
+                "Yeah, that's right!"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "So I'm sharing the information with you too, Trainer. \n--Here."
+        },
+        {
+            "name": "",
+            "text": "I took the hand she held out \nand measured Win Variation's pulse."
+        },
+        {
+            "name": "",
+            "text": "(Thump, thump, thump...)"
+        },
+        {
+            "name": "Win Variation",
+            "text": "If I ever lose my composure, I'd like you to remember it, \nso you can bring me back to this rhythm."
+        },
+        {
+            "name": "",
+            "text": "After that--the two of us went up to the empty rooftop, \nlooked up at the blue sky, and steadied our breathing."
+        },
+        {
+            "name": "Win Variation",
+            "text": "Through meditation, we face ourselves. \nTrainer, are you ready?",
+            "choice_data_list": [
+                "Yeah",
+                "Yeah"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "Then--... \nPlace your awareness--... on your breathing--...",
+            "choice_data_list": [
+                "--......"
+            ]
+        },
+        {
+            "name": "",
+            "text": "--...Eyes closed, breathing on, \nmemories of Win Variation came one after another."
+        },
+        {
+            "name": "",
+            "text": "The heat I felt watching her run \nwith her frustration as a springboard--... \nThe joy when she signed with me--..."
+        },
+        {
+            "name": "",
+            "text": "Facing all of it, I thought it again. \nI want to support the horsegirl called Win Variation \nas far as she goes--..."
+        },
+        {
+            "name": "Win Variation",
+            "text": "--...How was it, Trainer?",
+            "choice_data_list": [
+                "...Yeah. I think I was able to look at myself again"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "Same for me. All sorts of things \ncrossed my mind while I meditated."
+        },
+        {
+            "name": "Win Variation",
+            "text": "The most of all were... \nmemories of you, Trainer.",
+            "choice_data_list": [
+                "Huh, you too, Shion?"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "...Yes. And thanks to that, \nI was given the courage to keep fighting."
+        },
+        {
+            "name": "Win Variation",
+            "text": "Any feeling can be turned into strength... \nI was so glad when you taught me that."
+        },
+        {
+            "name": "Win Variation",
+            "text": "And while we were hunting for mental training methods together, \nit was fun, and reassuring..."
+        },
+        {
+            "name": "Win Variation",
+            "text": "So... I think I'll be all right. \nEven if I sink into dark feelings from here on..."
+        },
+        {
+            "name": "Win Variation",
+            "text": "Someone who lights a warm fire in my heart \nand stays with me through any amount of effort--"
+        },
+        {
+            "name": "Win Variation",
+            "text": "I have an ally that strong \nat my side--...!",
+            "choice_data_list": [
+                "Shion..."
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "I might cause you all sorts of trouble, but... \nplease keep looking after me from here on. \nTrainer.",
+            "choice_data_list": [
+                "Yeah, I'll keep supporting you",
+                "Yeah, I'll keep supporting you",
+                "If there's something you want to do, just say so!"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "I might cause you all sorts of trouble, but... \nplease keep looking after me from here on. \nTrainer.",
+            "choice_data_list": [
+                "Yeah, I'll keep supporting you",
+                "Yeah, I'll keep supporting you",
+                "If there's something you want to do, just say so!"
+            ]
+        },
+        {
+            "name": "Win Variation",
+            "text": "--...! Yes!"
+        },
+        {
+            "name": "",
+            "text": "After that, as if to hide their embarrassment, \nthe two of them looked up at the sky again."
+        },
+        {
+            "name": "Win Variation",
+            "text": "Yes! In that case, there's a method we haven't tried yet-- \nwould you do it with me?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "",
+            "text": "After that the two of them tried all sorts of mental training \ntogether: zazen, yoga and more."
+        }
+    ]
+}
