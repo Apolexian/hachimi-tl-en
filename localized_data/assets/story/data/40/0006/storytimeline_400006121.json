@@ -1,0 +1,68 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "Taking a breather between training sessions, \nI was walking through town with <chrname> when--"
+        },
+        {
+            "name": "???",
+            "text": "\"--Hey, isn't that \n<chrname>?\""
+        },
+        {
+            "name": "",
+            "text": "Hearing <chrname>'s name \nspoken in French, \nI turned toward it on reflex."
+        },
+        {
+            "name": "Paris Local A",
+            "text": "\"Who's <chrname>? Are they famous?\""
+        },
+        {
+            "name": "Paris Local B",
+            "text": "\"A horsegirl from Japan. \nShe's pretty strong over there, and apparently \nshe's running in the Arc de Triomphe soon.\""
+        },
+        {
+            "name": "",
+            "text": "It seemed there were people in Paris \nwho knew about <chrname> \nafter all.",
+            "choice_data_list": [
+                "(Maybe I should say something...)",
+                "(Let's listen a little longer)"
+            ]
+        },
+        {
+            "name": "",
+            "text": "I worked up my nerve and spoke to them \nin the French I'd been learning!",
+            "choice_data_list": [
+                "Bonjour!"
+            ]
+        },
+        {
+            "name": "Paris Local B",
+            "text": "\"Whoa! So it really was \n<chrname>! \nI watch your UmaTube videos--I'm rooting for you~\""
+        },
+        {
+            "name": "Paris Local A",
+            "text": "\"Huh, you both understand French. \nDid you study it?\""
+        },
+        {
+            "name": "",
+            "text": "Meeting fans in Paris seemed to be \na precious experience \nfor <chrname> too!"
+        },
+        {
+            "name": "Paris Local B",
+            "text": "\"Watching her on UmaTube, working so hard \nto make it to the Arc de Triomphe... \nit just made me want to cheer her on...\""
+        },
+        {
+            "name": "Paris Local A",
+            "text": "\"Oh my, so you won't be cheering for our own girl genius? \nYou fickle thing~\""
+        },
+        {
+            "name": "Paris Local B",
+            "text": "\"What's wrong with that! \nYou can root for as many horsegirls as you like!\""
+        },
+        {
+            "name": "",
+            "text": "<chrname>, who had been studying French \nalongside me, seemed to catch \nevery word of that happy exchange."
+        }
+    ]
+}

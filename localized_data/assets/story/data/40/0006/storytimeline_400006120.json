@@ -1,0 +1,71 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "<chrname> was going to be \ninterviewed by \nMonthly Twinkle."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "I see! So you intend to wear that same racing outfit \nwhen you take on the Arc de Triomphe \nas well...?!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "<chrname> running across \nthe turf at Longchamp...! \nI can picture it already...!",
+            "choice_data_list": [
+                "I'm looking forward to that day too",
+                "I'm looking forward to that day too",
+                "Yes, she'll cross the line in first"
+            ]
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "<chrname> running across \nthe turf at Longchamp...! \nI can picture it already...!",
+            "choice_data_list": [
+                "I'm looking forward to that day too",
+                "I'm looking forward to that day too",
+                "Yes, she'll cross the line in first"
+            ]
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Oh! So you too, Trainer, are certain \nshe'll take the Arc de Triomphe \nby storm...?!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "And you can already see <chrname> \nholding the trophy aloft \non the podium too...?!?!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "This is exactly the mindset a trainer needs \nto challenge the very summit of the world! \nI am thoroughly impressed...!!"
+        },
+        {
+            "name": "",
+            "text": "That's right--<chrname> and I \nare about to take on a grand dream--"
+        },
+        {
+            "name": "",
+            "text": "I have to hold on to the vision: we're strong enough \nto win the Arc de Triomphe...!"
+        },
+        {
+            "name": "",
+            "text": "Following her example, I resolved to picture \n<chrname> holding up the Arc de Triomphe trophy \nevery single day from now on."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "M-Magnificent...!!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Only a trainer who believes with all their heart \nin their horsegirl's victory is a true trainer...!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "This is exactly the mindset a trainer needs \nto challenge the very summit of the world! \nI am thoroughly impressed...!!"
+        },
+        {
+            "name": "",
+            "text": "And so the interview \nwas a roaring success."
+        }
+    ]
+}

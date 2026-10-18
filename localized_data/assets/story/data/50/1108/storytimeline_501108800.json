@@ -1,0 +1,213 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mayano Top Gun",
+            "text": "Duramente! \nTrick or treeeeat~~~!!"
+        },
+        {
+            "name": "Duramente",
+            "text": "Treat. \nHere, take this."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Thanks~ ☆ \nGuess the trick'll have to wait for next time♪"
+        },
+        {
+            "name": "Duramente",
+            "text": "A trick... \nShould I have chosen trick instead?"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Mayano might well have had \na trick all ready to go."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Tricks are the whole point of Halloween!"
+        },
+        {
+            "name": "Duramente",
+            "text": "Is that so...?"
+        },
+        {
+            "name": "Cheval Grand",
+            "text": "...I-I wonder... \nMy sister did say something similar..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'm with Crown on this one! \nTricks are part of the fun of Halloween!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "While we're at it, why don't you \ngive trick-or-treating a try too?"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "That's it! If you try it yourself, \nI think you'll see the appeal of a good trick!"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "A costume is essential at Halloween! \nAnd the deeper you get into the role, the more fun the trick!"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "So! From now on, Duramente, \nyou shall be Count Dracula, \nand I shall be your servant!"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "--Lady Duramente, as my master, \npray observe your humble servant at work."
+        },
+        {
+            "name": "Duramente",
+            "text": "...So I simply follow along?"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Yes, my lady. \nBut please, carry yourself with a count's dignity."
+        },
+        {
+            "name": "Duramente",
+            "text": "Mm... Understood."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Oh my... I've found us prey♪ \nYou there. Trick or trick."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "The only choice permitted to you \nis to offer your blood to Lady Duramente. \nNow, then--"
+        },
+        {
+            "name": "Uma A",
+            "text": "Wha--! To Lady Duramente?! \nY-Yes... as you wish. Eep♡"
+        },
+        {
+            "name": "Duramente",
+            "text": "Mm..."
+        },
+        {
+            "name": "Duramente",
+            "text": "...All I could manage was a nod. \nImprovised acting is harder than I expected."
+        },
+        {
+            "name": "Duramente",
+            "text": "But... she was having the time of her life, \neven though the trick was played on her..."
+        },
+        {
+            "name": "Cheval Grand",
+            "text": "...Um... m-may I? \nIt seems it's my turn next..."
+        },
+        {
+            "name": "Cheval Grand",
+            "text": "I'm not very good at tricks, but... \nVivlos is always begging me to do one, \nso... I'll show you that."
+        },
+        {
+            "name": "Duramente",
+            "text": "Cheval told me to come to the gym \nalone, but... hm?"
+        },
+        {
+            "name": "Duramente",
+            "text": "What's this? There's something \non the floor--"
+        },
+        {
+            "name": "Duramente",
+            "text": "! Dark red... written in blood? \n...No, surely not."
+        },
+        {
+            "name": "Duramente",
+            "text": "Three steps right from here, five steps back, \nthen close my eyes and press my palms together..."
+        },
+        {
+            "name": "Cheval Grand",
+            "text": "--Boo!!!"
+        },
+        {
+            "name": "Cheval Grand",
+            "text": "H-How was that? \nI thought a surprise like this might work too... \nThe trick is not letting them catch on... I think."
+        },
+        {
+            "name": "Duramente",
+            "text": "I-I see... Simple, but effective. \nMy heart is still racing..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Just like Cheval did, it helps to use \nthe mood of a place like this!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "And then--"
+        },
+        {
+            "name": "Duramente",
+            "text": "--?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ehehe, got a chill? \nI just touched you with a cold hand."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But when you're somewhere a liiittle spooky, \nit's a trick that really gets the heart pounding!"
+        },
+        {
+            "name": "Duramente",
+            "text": "Indeed. ...Cheval's setup, \nKitasan's choice of place--the tricks themselves are simple. \nEven I could devise something like that."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "So? How was it? \nDid the fun of a good trick come through?"
+        },
+        {
+            "name": "Duramente",
+            "text": "Let me see... Having learned about tricks from all of you, \nI believe I understand the heart of Halloween."
+        },
+        {
+            "name": "Duramente",
+            "text": "...I find I rather want to put that learning into practice. \nThough the acting will require training."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Yes♪ Then why not \ntry playing a trick on someone?"
+        },
+        {
+            "name": "",
+            "text": "Duramente and the others, all in costume, \nare talking merrily in the hallway.",
+            "choice_data_list": [
+                "Hey, you all look like you're having fun",
+                "Hey, you all look like you're having fun"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "Ah, Trainer. Good timing. \nTrick or treat?",
+            "choice_data_list": [
+                "Huh? Then... trick?",
+                "Treat!"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "Trick, then. \nVery well--"
+        },
+        {
+            "name": "Duramente",
+            "text": "...No. My acting is still far from ready."
+        },
+        {
+            "name": "Duramente",
+            "text": "Forgive me. I will answer you \nonce I have prepared a trick properly."
+        },
+        {
+            "name": "",
+            "text": "I never expected to hear those words from Duramente, \nbut I held out the little bag of sweets \nI had prepared for today."
+        },
+        {
+            "name": "Duramente",
+            "text": "-- \nThank you."
+        },
+        {
+            "name": "Duramente",
+            "text": "...Crown was right. \nA Halloween without tricks \nmight be a little lonely."
+        }
+    ]
+}

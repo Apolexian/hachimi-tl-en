@@ -1,0 +1,75 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "One day at lunch break, \nI went to see <chrname> and found her \ntalking with some unexpected company."
+        },
+        {
+            "name": "Kiryūin Aoi",
+            "text": "Ah, Trainer <username>. \nI was just hearing all sorts of things \nfrom <chrname>."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "France... the Arc de Triomphe... \nThere's so much I don't know... how exciting."
+        },
+        {
+            "name": "",
+            "text": "It seemed they had asked <chrname> \nto tell them about her experiences \non Project L'Arc."
+        },
+        {
+            "name": "Kiryūin Aoi",
+            "text": "If you don't mind, Trainer <username>, \nplease share your own account as well, for our edification!",
+            "choice_data_list": [
+                "Talk about the city of Paris",
+                "Talk about the racecourse"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Paris is called the city of art for good reason-- \neverything <chrname> and I saw there \nwas beautiful."
+        },
+        {
+            "name": "",
+            "text": "Glimpsed between training sessions, those sights were \nnourishment for <chrname>'s heart and mine \n--that was the memory I shared."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "What a lovely memory... how nice... \nSomeday I'd like to, with my trainer... mm."
+        },
+        {
+            "name": "Kiryūin Aoi",
+            "text": "Um, Trainer <username>. \nYou're taking on the challenge again this year, aren't you? \nThe Arc de Triomphe...!",
+            "choice_data_list": [
+                "...Yes!"
+            ]
+        },
+        {
+            "name": "Kiryūin Aoi",
+            "text": "Meek and I are both cheering for you from the heart. \nAs the goal we ought to aim for...!"
+        },
+        {
+            "name": "",
+            "text": "The Arc de Triomphe is the world's premier race, \nand its stands have the air of high society, \nfilled with gentlemen and ladies of the first rank--"
+        },
+        {
+            "name": "",
+            "text": "Because of that, the tension in the air felt different \nfrom a Japanese racecourse, and it focused the mind \n--that was the memory I shared."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "The world... the first rank... my heart's pounding... \nSomeday I'd like to, with my trainer... mm."
+        },
+        {
+            "name": "Kiryūin Aoi",
+            "text": "Um, Trainer <username>. \nYou're taking on the challenge again this year, aren't you? \nThe Arc de Triomphe...!",
+            "choice_data_list": [
+                "...Yes!"
+            ]
+        },
+        {
+            "name": "Kiryūin Aoi",
+            "text": "Meek and I are both cheering for you from the heart. \nAs the goal we ought to aim for...!"
+        }
+    ]
+}

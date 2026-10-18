@@ -1,0 +1,231 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Duramente",
+            "text": "Trainer, your tie is a little crooked. \n...Ah, right there. That will do.",
+            "choice_data_list": [
+                "Glad you noticed, thank you"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Today I was attending a shipboard party \nfor people connected with racing, \nto which Duramente had been invited."
+        },
+        {
+            "name": "Duramente",
+            "text": "First, we greet the host. \nLet's go."
+        },
+        {
+            "name": "Party Host",
+            "text": "Hahaha, I look forward to seeing more from you! \nTruly the great hope of an athletic bloodline! \nNow, how about showing us that talent of yours?"
+        },
+        {
+            "name": "Duramente",
+            "text": "--Meaning what, exactly?"
+        },
+        {
+            "name": "Party Host",
+            "text": "We've arranged fencing for the entertainment. \nAs it happens, another horsegirl is here tonight. \nAnd she's the hope of her own bloodline, just like you!"
+        },
+        {
+            "name": "Party Host",
+            "text": "In that case, a match between two great hopes would be splendid, no? \n--What do you say, Lady Rose Kingdom?",
+            "choice_data_list": [
+                "Rose Kingdom. So you're here too",
+                "Rose Kingdom. So you're here too"
+            ]
+        },
+        {
+            "name": "Rose Kingdom",
+            "text": "Yes. \nIf that is your wish."
+        },
+        {
+            "name": "Duramente",
+            "text": "For me, of an athletic bloodline, \nrefusal is out of the question."
+        },
+        {
+            "name": "Duramente",
+            "text": "The strength my family has cultivated-- \nplease, behold it."
+        },
+        {
+            "name": "",
+            "text": "A great many guests had gathered around the stage \nto watch the two of them. Yet the pair stood in a tension \nfar removed from all that clamor."
+        },
+        {
+            "name": "Duramente",
+            "text": "We both carry our families on our backs. \nI will show no mercy."
+        },
+        {
+            "name": "Rose Kingdom",
+            "text": "That is as it should be."
+        },
+        {
+            "name": "Duramente",
+            "text": "(A beautiful stance. Supple, elegant. \nAnd... not a single opening.)"
+        },
+        {
+            "name": "Duramente",
+            "text": "I can tell just by facing her. \nShe is highly skilled--!"
+        },
+        {
+            "name": "",
+            "text": "It was over in an instant. \nRose Kingdom's point struck \nabove Duramente's waist. A score."
+        },
+        {
+            "name": "Rose Kingdom",
+            "text": "Fencing originated in France. \nThe founder of the rose family was French as well... \nWhich means I cannot afford to lose either."
+        },
+        {
+            "name": "Rose Kingdom",
+            "text": "I must show them. \nThat the Kingdom of Roses stands here!"
+        },
+        {
+            "name": "",
+            "text": "A fierce exchange. Even knowing they use safe practice foils \nand wear protective gear beneath their clothes, \nit's enough to set your heart racing.",
+            "choice_data_list": [
+                "(Both of them... what speed!)"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "(For all that elegance, her attacks are razor-sharp--!)"
+        },
+        {
+            "name": "Duramente",
+            "text": "(Fencing is a sport that prizes chivalry. \nSo it isn't elegance alone--there's substance behind it.)"
+        },
+        {
+            "name": "Duramente",
+            "text": "(Otherwise she would not have come this far. \nShe has kept on fighting--so this is the rose family!)"
+        },
+        {
+            "name": "",
+            "text": "Rose Kingdom unleashes a flurry of high-speed thrusts. \nDuramente, defending, cannot turn to the attack.",
+            "choice_data_list": [
+                "Dura...!"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "(But... my family too \nexists at the end of a long fight.)"
+        },
+        {
+            "name": "Duramente",
+            "text": "(Faster, stronger, forever chasing the summit. \nAnd so... I am the crystal of that blood.)"
+        },
+        {
+            "name": "Duramente",
+            "text": "For me to lose is to sully all my family's striving...! \nI will not allow it...!"
+        },
+        {
+            "name": "Duramente",
+            "text": "I will prove it-- I am the crystal of that blood!"
+        },
+        {
+            "name": "Duramente",
+            "text": "Rrraaaaaah!"
+        },
+        {
+            "name": "Host and Guests",
+            "text": "\"Whoaaaa! The intensity of a real duel!\" \n\"Go on, both of you!\" \"I can't seeee!\""
+        },
+        {
+            "name": "",
+            "text": "The guests roared with excitement too. \nSo many were packed together that \nthe deck swayed a little with their fervor."
+        },
+        {
+            "name": "",
+            "text": "When I turned my eyes from the crowd back to the stage, \na dark shadow fell across my vision--",
+            "choice_data_list": [
+                "...Huh? The vase is...!"
+            ]
+        },
+        {
+            "name": "Rose Kingdom",
+            "text": "?! Knocked over by the shaking...!"
+        },
+        {
+            "name": "Duramente",
+            "text": "Trainer, get down!"
+        },
+        {
+            "name": "",
+            "text": "(Shff--! --Crash!)"
+        },
+        {
+            "name": "Duramente",
+            "text": "...That was a close thing. \nThank goodness..."
+        },
+        {
+            "name": "",
+            "text": "The vase lay shattered some distance away. \nDuramente had leapt from the stage in a single bound \nand swept it aside with her foil.",
+            "choice_data_list": [
+                "Thank you. But I interrupted the match...",
+                "Thank you. But I interrupted the match..."
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "The fencing? \n...Without you, proving myself the crystal of that blood"
+        },
+        {
+            "name": "Duramente",
+            "text": "would mean nothing. \nThat is what I believe, at least.",
+            "choice_data_list": [
+                "Dura..."
+            ]
+        },
+        {
+            "name": "Rose Kingdom",
+            "text": "So that is where the speed came from. \nThe reason I fell behind."
+        },
+        {
+            "name": "Rose Kingdom",
+            "text": "In respect of that bond. \nThe victory is yours."
+        },
+        {
+            "name": "Rose Kingdom",
+            "text": "It was an honor to cross blades with you, \nDuramente."
+        },
+        {
+            "name": "Duramente",
+            "text": "...Rose was strong. \nI lost all composure and threw myself into it.",
+            "choice_data_list": [
+                "That wildness of yours looked amazing",
+                "That was the strongest, all right!"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Rose Kingdom, every inch the prince, \nand Duramente, wild and fierce. I told them each \nhad a splendor all their own.",
+            "choice_data_list": [
+                "The Dura who came to save me was like a knight"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "A knight... So that is how I looked to you. \nHeh, I see."
+        },
+        {
+            "name": "Duramente",
+            "text": "Not bad at all."
+        },
+        {
+            "name": "Duramente",
+            "text": "Then I managed to protect both \nmy claim to being the strongest and my trainer."
+        },
+        {
+            "name": "Duramente",
+            "text": "That said, Rose did give me a hard fight. \nI must train harder still."
+        },
+        {
+            "name": "Duramente",
+            "text": "If I kept my family's honor intact, that's a relief. \n...And now that I'm relieved, I'm hungry."
+        },
+        {
+            "name": "Duramente",
+            "text": "Trainer, this food is too good to waste. \nLet's enjoy it together."
+        }
+    ]
+}

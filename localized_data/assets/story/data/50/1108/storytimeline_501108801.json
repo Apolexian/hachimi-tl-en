@@ -1,0 +1,248 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "--One rest day. \nTonight I'd come to the amusement park with Duramente. \nTo enjoy the Halloween event!"
+        },
+        {
+            "name": "Duramente",
+            "text": "The whole park is Halloween from end to end. \nEveryone's in costume, having a fine time."
+        },
+        {
+            "name": "",
+            "text": "Last Halloween she'd seemed to enjoy herself. \nSo I thought she might be interested in the park's Halloween \nevent too, and when I asked, she agreed at once."
+        },
+        {
+            "name": "Duramente",
+            "text": "It's terribly crowded. In case we're separated, \nlet's decide on a place to meet.",
+            "choice_data_list": [
+                "Then let's keep in touch by phone--"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "No... hmm... the signal may not get through. \nSo let's meet in the entrance hall of the largest mansion, \nat the very back of the Ghost Town area.",
+            "choice_data_list": [
+                "Got it"
+            ]
+        },
+        {
+            "name": "",
+            "text": "The ghost parade has started! \nGhosts roam all over the park, \ngoing around startling the guests."
+        },
+        {
+            "name": "Werewolf",
+            "text": "Rrrooooooooh!"
+        },
+        {
+            "name": "Duramente",
+            "text": "! Trainer, a pack of werewolves is coming! \nSweets--apparently they'll leave if you give them sweets.",
+            "choice_data_list": [
+                "Sweets?! I don't have any!"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "There's a candy wagon over there. \nLet's buy some!"
+        },
+        {
+            "name": "Duramente",
+            "text": "(...Trainer is paying. \nRight--time to slip away before I'm noticed.)"
+        },
+        {
+            "name": "Duramente",
+            "text": "Now then, I must finish my preparations \nbefore Trainer reaches the meeting place."
+        },
+        {
+            "name": "",
+            "text": "\"If you've no plans on your rest day, \nit's Halloween--shall we go to the amusement park?\""
+        },
+        {
+            "name": "Duramente",
+            "text": "(Decorating the trainer's office head to toe in Halloween, \nand in the end even inviting me to the amusement park.)"
+        },
+        {
+            "name": "Duramente",
+            "text": "(It seems Trainer wants \nto enjoy Halloween to the fullest.)"
+        },
+        {
+            "name": "Duramente",
+            "text": "The heart of Halloween is the trick. \nI must answer Trainer with a trick of my own."
+        },
+        {
+            "name": "Duramente",
+            "text": "...First, let me find a place to hide. \nThe key is not letting them catch on, wasn't it."
+        },
+        {
+            "name": "Duramente",
+            "text": "(From here I can see the hallway through the gap in the door. \nThis should do nicely for hiding.)"
+        },
+        {
+            "name": "Duramente",
+            "text": "... \n........."
+        },
+        {
+            "name": "",
+            "text": "(...Clatter) \n\"Ahahahahaha!\""
+        },
+        {
+            "name": "Duramente",
+            "text": "--?!"
+        },
+        {
+            "name": "Duramente",
+            "text": "...A-A doll, is it. \nD-Don't mind it... focus..."
+        },
+        {
+            "name": "Duramente",
+            "text": "(When Trainer arrives, I spring the trick. \nFor now, focus on that alone...)"
+        },
+        {
+            "name": "Duramente",
+            "text": "(...Just as I was taught. Use the mood of the place, \ndon't let them catch on, and become Dracula--)"
+        },
+        {
+            "name": "Duramente",
+            "text": "! --Here they come!"
+        },
+        {
+            "name": "",
+            "text": "Separated from Duramente, I made my way to the entrance hall \nwhere we'd agreed to meet. But there was no sign of her at all, \nso I decided to search the hallway too.",
+            "choice_data_list": [
+                "...Heeey, Duraaa"
+            ]
+        },
+        {
+            "name": "",
+            "text": "The dim hallway is eerily silent. \nI open the door of a nearby room and look inside--"
+        },
+        {
+            "name": "Duramente",
+            "text": "...Trick or trick."
+        },
+        {
+            "name": "",
+            "text": "A cold hand brushed the back of my neck. \nAt the same moment, something clicked.",
+            "choice_data_list": [
+                "Eep?! W-What was that?"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "A baptism of trickery \nfor the pitiful human who has entered my domain."
+        },
+        {
+            "name": "Duramente",
+            "text": "That choker is my mark. \nFrom this moment, you are my familiar.",
+            "choice_data_list": [
+                "Dura?!"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "...I was called that once, long ago, was I? \nBut I am your master now.",
+            "choice_data_list": [
+                "M-Master...?"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "Two choices are permitted to you. \nWill you become my kin? Or will you \noffer yourself up to me? Now, choose.",
+            "choice_data_list": [
+                "I'll become your kin",
+                "I'll provide the food!"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "I see... My kin, then. \nVery well."
+        },
+        {
+            "name": "Duramente",
+            "text": "Let us live out eternity together.",
+            "choice_data_list": [
+                "I swear to live out eternity"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "Ah, you needn't swear it. \n--I have no intention of letting you go, you see."
+        },
+        {
+            "name": "",
+            "text": "Duramente smiles, bewitching. \nI catch myself staring-- \nand she pokes me on the forehead."
+        },
+        {
+            "name": "Duramente",
+            "text": "Then serve me well from here on, as my kin. \nDo not stray from me. Stay close.",
+            "choice_data_list": [
+                "Of course, I always intended to!"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "You really... are a trainer through and through. \n--Ah, you've got me doing it too."
+        },
+        {
+            "name": "Duramente",
+            "text": "Then--I shall have your blood.",
+            "choice_data_list": [
+                "Huh? B-Blood...?!"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "Naturally. It is a vampire's meal, after all. \nNow, offer it up yourself. That red blood of yours--"
+        },
+        {
+            "name": "",
+            "text": "Duramente smiles, bewitching. \nI catch myself staring-- \nand she pokes me on the forehead."
+        },
+        {
+            "name": "Duramente",
+            "text": "From this moment your blood is mine. \nKeep it delicious, as a meal fit for me.",
+            "choice_data_list": [
+                "Is that... a sweet?"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "Just so. Stress spoils the flavor of blood. \nStay in good health, for my sake. Understood?"
+        },
+        {
+            "name": "Duramente",
+            "text": "...Why are you standing there dumbfounded. \nWas my trick not up to much?",
+            "choice_data_list": [
+                "No, it was so convincing I got swept up in it..."
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "I see. \n...Did you enjoy Halloween, then?",
+            "choice_data_list": [
+                "Yeah, a thrilling, heart-pounding night!",
+                "Yeah, a thrilling, heart-pounding night!"
+            ]
+        },
+        {
+            "name": "",
+            "text": "I'd never dreamed she would be the one \nplaying the trick. All of it was unexpected, \nand I told her that was exactly what made it fun.",
+            "choice_data_list": [
+                "Thanks for setting up a trick for me!"
+            ]
+        },
+        {
+            "name": "Duramente",
+            "text": "Heh. To be thanked for playing a trick. \nBut... I see how it is."
+        },
+        {
+            "name": "Duramente",
+            "text": "Tricks are the heart of Halloween... \nI feel I understand that now myself."
+        },
+        {
+            "name": "Duramente",
+            "text": "...Trainer. \nDon't let your guard down next year either."
+        }
+    ]
+}
