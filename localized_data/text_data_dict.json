@@ -1115,7 +1115,8 @@
         "9048": "Haiseiko",
         "9049": "Tucker Bryne",
         "9050": "Hoshina Kiyoko",
-        "9051": "Yunohana Bloom"
+        "9051": "Yunohana Bloom",
+        "9052": "Azuma"
     },
     "7": {
         "1001": "Azumi Waki",
@@ -1286,7 +1287,8 @@
         "9048": "Sakura Tange",
         "9049": "Kobayashi Yū",
         "9050": "Takagaki Ayahi",
-        "9051": "Toyosaki Aki"
+        "9051": "Toyosaki Aki",
+        "9052": "Mitsuishi Kotono"
     },
     "8": {
         "1001": "Ritto Dorm",
@@ -21553,7 +21555,12 @@
         "3606": "Island Trip",
         "4001": "PR Activity",
         "4002": "PR Activity",
-        "4003": "PR Activity"
+        "4003": "PR Activity",
+        "5101": "Yabusame",
+        "5102": "Flag Grab",
+        "5103": "Holy Dance",
+        "5104": "Mikoshi Pull",
+        "5105": "Hurdles"
     },
     "59": {
         "8000": "Jewel Nephrite",
@@ -22919,7 +22926,18 @@
         "370": "<color=#ff911c>Special seasonings</color> obtainable from <color=#ff911c>special events</color> can be\nused to <color=#ff911c>fill in for missing expertise</color> when preparing ramen!\nHowever, you can <color=#ff911c>only hold 4</color> of these, and <color=#ff911c>use 2 per Taste\nTest</color>, so manage them carefully!",
         "371": "<color=#ff911c>Every year after late december</color>, new knowledge is turned\ninto plans for the new year, and <color=#ff911c>gathered Expertise will\nbe reset</color>! Any <color=#ff911c>remaining expertise</color> lost this way is <color=#ff911c>converted\ninto energy</color>. Remaining <color=#ff911c>special seasonings will not reset</color>,\nso plan wisely!",
         "372": "A <color=#ff911c>Ramen Jamboree</color>, or <color=#ff911c>RMJ</color> for short, are events where\nUmas can put all their gained ramen skill and knowledge\non display for attendees! A bigger <color=#ff911c>Turnout</color> increases not only\nthe fun, but your trainee's growth as well!",
-        "373": "You'll <color=#ff911c>gain 2 special seasonings</color> at the start of summer\ncamp, and <color=#ff911c>1 more every turn</color>! The summer is a perfect\ntime to enjoy ramen and Taste Tests' effects on training!"
+        "373": "You'll <color=#ff911c>gain 2 special seasonings</color> at the start of summer\ncamp, and <color=#ff911c>1 more every turn</color>! The summer is a perfect\ntime to enjoy ramen and Taste Tests' effects on training!",
+        "391": "Aim for a great success at the <color=#ff911c>Goshiki Shuntaisai</color> by rehearsing its\n5 performances! Max out a <color=#ff911c>Performance Gauge</color> to do <color=#ff911c>Performance\nPractice</color>, which raises that performance's <color=#ff911c>Performance Lv</color>.\nOnce <color=#ff911c>every Performance Lv reaches its Target Lv</color>, <color=#ff911c>Completion</color>\nrises, leading to great successes at the <color=#ff911c>Progress Showcases</color>\nand the <color=#ff911c>Goshiki Shuntaisai</color>!",
+        "392": "During your Career, <color=#ff911c>Performers</color> are <color=#ff911c>imparted</color> Teachings!\nTeachings have effects that aid training and <color=#ff911c>strengthen Performers</color>.\n<color=#ff911c>Performers</color> also <color=#ff911c>join your regular training</color>, so check each\nTeaching's effects and choose which ones to <color=#ff911c>impart</color>!",
+        "393": "<color=#ff911c>Performance Gauges</color> rise mainly through training!\nWhen a gauge is full, <color=#ff911c>you can do Performance Practice!</color>\n<color=#ff911c>Practice raises Performance Lv</color> and <color=#ff911c>enhances Practice itself</color>,\nso fill those <color=#ff911c>gauges</color> and <color=#ff911c>practice</color> often!",
+        "394": "This scenario provides <color=#ff911c>Autoplay</color>. This can be accessed through the button on the main training screen. Training will happen automatically, according to the selected plan, which you can also edit. Make use of <color=#ff911c>Autoplay</color> for a more hands-off experience!",
+        "395": "During your Career, <color=#ff911c>Performers</color> are <color=#ff911c>imparted</color> Teachings!\nTeachings have effects that aid training and <color=#ff911c>strengthen Performers</color>.\n<color=#ff911c>Performers</color> also <color=#ff911c>join your regular training</color>, so check each\nTeaching's effects and choose which ones to <color=#ff911c>impart</color>!",
+        "396": "At certain points in your Career, you can change which Teachings\nare <color=#ff911c>imparted</color>. Check your Uma's condition and pick the right ones!\nOnce you confirm your choices, <color=#ff911c>they can't be changed</color>\nuntil the next opportunity, so choose carefully!",
+        "397": "During your Career, <color=#ff911c>Performers</color> are <color=#ff911c>imparted</color> Teachings!\nTeachings have effects that aid training and <color=#ff911c>strengthen Performers</color>.\n<color=#ff911c>Performers</color> also <color=#ff911c>join your regular training</color>, so check each\nTeaching's effects and choose which ones to <color=#ff911c>impart</color>!",
+        "398": "At certain points in your Career, you can change which Teachings\nare <color=#ff911c>imparted</color>. Check your Uma's condition and pick the right ones!\nOnce you confirm your choices, <color=#ff911c>they can't be changed</color>\nuntil the next opportunity, so choose carefully!",
+        "399": "This summer is a <color=#ff911c>Shuntaisai Camp</color> devoted to practice, so you can\n<color=#ff911c>do Performance Practice every turn!</color> During camp, practice\n<color=#ff911c>won't raise Performance Lv</color>, but <color=#ff911c>every Performance Lv gets +1</color>\nwhen camp ends! <color=#ff911c>Shuntaisai Camp is also held in your Junior Year</color>!",
+        "400": "<color=#ff911c>Progress Showcases</color> are where the Umas show how their practice\nfor the <color=#ff911c>Goshiki Shuntaisai</color> is going! To get good results, you'll\nneed to raise <color=#ff911c>Completion</color>, and your Uma will grow\nbased on the outcome!",
+        "401": "After a <color=#ff911c>Progress Showcase</color>, you <color=#ff911c>gain new Teachings</color> and\n<color=#ff911c>Transmutation</color> takes place. Combine a new Teaching with one of\nyour first 5 to <color=#ff911c>grant it a Transmutation Effect</color>! However,\n<color=#ff911c>a Teaching used in a Transmutation can't be used again!</color>\nCheck the <color=#ff911c>Transmutation Effects</color> and pick your combinations!"
     },
     "64": {
         "6": "Reward from \"{0}\".",
@@ -24073,6 +24091,11 @@
         "511103": "Tracen Island Planner",
         "513105": "BC Champion",
         "514101": "Welcome to Tracen Ramen!",
+        "515101": "Companions, Unraveling History",
+        "515102": "Linking Umas and Humans",
+        "515103": "Master of Performance",
+        "515104": "Bearer of Teachings",
+        "515105": "Rite of Binding Teachings",
         "700000": "Uma's Tale",
         "701001": "Special Week's Tale",
         "701002": "Silence Suzuka's Tale",
@@ -25368,6 +25391,11 @@
         "511104": "Upgrade any facility to its max level 40 times.",
         "513102": "Participate in the BC and win every race.",
         "513105": "Obtain all the BC trophies in a Career.",
+        "515101": "Reach a rating of 36000 in the Shuntaisai scenario",
+        "515102": "End the Goshiki Shuntaisai with a great success",
+        "515103": "Succeed at Performance Practice 700 times in total",
+        "515104": "Impart Teachings 120 times in total",
+        "515105": "Transmute Teachings 40 times in total",
         "700000": "Leave an undeniable mark on the League of Heroes",
         "701001": "Leave Special Week's undeniable \nmark on the League of Heroes",
         "701002": "Leave Silence Suzuka's undeniable \nmark on the League of Heroes",
@@ -38183,7 +38211,8 @@
         "11": "Welcome to the Wilds\n—DESIGN YOUR ISLAND—",
         "12": "The Heavenly Yukoma Hot Springs♪",
         "13": "Beyond Dreams\n—Towards the Light, Together—",
-        "14": "Welcome to Tracen Ramen!\n～A Thank-You to Fans～"
+        "14": "Welcome to Tracen Ramen!\n～A Thank-You to Fans～",
+        "15": "Companions, Unraveling History\n—Goshiki Shuntaisai—"
     },
     "120": {
         "1": "With an outrageous declaration, young academy director Akikawa establishes a new race named the <color=#FF6D26>URA Finale</color>! Trainers and Umas work hand in hand to become its maiden champion!",
@@ -38199,7 +38228,8 @@
         "11": "$(scale 95)The Uninhabited Island Project was the result of taking a chance on Tucker Bryne's dream, passionate Umas, and giving in to instincts! Train body and mind out in the wilds, and build the greatest training site ever!",
         "12": "$(scale 95)The Umas' busy lives are interrupted by an invitation to a soothing experience at the <color=#FF6D26>Yukoma hot spring village</color>. But the village has fallen on hard times…!? Rest and peaceful relaxation are important to well-being!",
         "13": "$(scale 95)The Breeders' Cup. Having once challenged this most massive of G1s on the world stage, Casino Drive seeks victory there with a new campaign. A trial of truly global proportions begins, each Uma holding her own desires!",
-        "14": "$(scale 95)Repay fans in ramen! A few Umas came up with the idea, and with the help of Light Hello and Hayakawa Tazuna, entrance curtains bearing the Tracen name were soon a common sight across the country!"
+        "14": "$(scale 95)Repay fans in ramen! A few Umas came up with the idea, and with the help of Light Hello and Hayakawa Tazuna, entrance curtains bearing the Tracen name were soon a common sight across the country!",
+        "15": "$(scale 95)The <color=#FF6D26>Goshiki Shuntaisai</color>, held once every twelve years. A few Umas have been named Divine Steeds, its most special role. \"For the bond between Umas and humans,\" says the festival's shrine maiden. Now begins a tale linking the ancient past to the future."
     },
     "121": {
         "1": "Debut",
@@ -38615,7 +38645,15 @@
         "402": "Master of Topping Prep",
         "403": "Ruler of the Board",
         "404": "Fortune's Favored Child",
-        "405": "The Unyielding Phalaenopsis"
+        "405": "The Unyielding Phalaenopsis",
+        "407": "Full-Fledged Divine Steed",
+        "408": "Devoted Performer",
+        "409": "Weaver of Human Bonds",
+        "410": "Arrows of Divine Speed",
+        "411": "Honor of the First Flag",
+        "412": "Dance Ascending to Heaven",
+        "413": "Hauler of the Harvest",
+        "414": "Surmounter of All Walls"
     },
     "131": {
         "1": "Enter a race with rainy weather ≥4 times \nWin 3 of them",
@@ -38869,7 +38907,15 @@
         "264": "Win ≥10 G1 dirt races \nObtain ≥320000 fans",
         "265": "Win Yomiuri Milers C, win Mile CS twice consecutively \nEnter all races with peak motivation \nComplete a Career with ≥1200 power",
         "266": "Win ≥2 races and February S \nReach ≥1200 power",
-        "373": "Engage in PR activities 3 times\n※Hot Spring scenario only"
+        "373": "Engage in PR activities 3 times\n※Hot Spring scenario only",
+        "407": "Achieve a great success at the Goshiki Shuntaisai\n※Shuntaisai scenario only",
+        "408": "Succeed at Performance Practice 30 times in total\n※Shuntaisai scenario only",
+        "409": "Achieve a great success at every Progress Showcase\nand at the Goshiki Shuntaisai\n※Shuntaisai scenario only",
+        "410": "Succeed at Yabusame Performance Practice 7 times\n※Shuntaisai scenario only",
+        "411": "Succeed at Flag Grab Performance Practice 7 times\n※Shuntaisai scenario only",
+        "412": "Succeed at Holy Dance Performance Practice 7 times\n※Shuntaisai scenario only",
+        "413": "Succeed at Mikoshi Pull Performance Practice 7 times\n※Shuntaisai scenario only",
+        "414": "Succeed at Hurdles Performance Practice 7 times\n※Shuntaisai scenario only"
     },
     "133": {
         "1": "Garlands",
@@ -39577,7 +39623,11 @@
         "25": "I believe… it's bonds as powerful \nas yours that inspire others.",
         "26": "You've been doing great…! \nI, myself, support you as well.",
         "27": "That enthusiasm you two share… \nI think I will try to emulate it.",
-        "28": "Let me know whenever \nyou want advice, okay?"
+        "28": "Let me know whenever \nyou want advice, okay?",
+        "45": "—May the bond between you two\nendure for all time.",
+        "46": "The history you two have forged\nshall aid those who come after.",
+        "47": "May the path before you both…\nbe filled with light.",
+        "48": "Wisdom and prayer alike—\nall I may bestow, I give to you."
     },
     "140": {
         "1": "Big gap",
@@ -39808,6 +39858,8 @@
         "30": "Unyielding Vow - Mile",
         "31": "Resolute Challenger",
         "32": "Revitalization Know-how",
+        "45": "Fatigue Recovery",
+        "47": "Aid's Support",
         "100": "Passion zone: Team Sirius",
         "101": "Passion zone: The Throne's Assemblage",
         "102": "Passion zone: Progenitors & Guides",
@@ -39847,6 +39899,8 @@
         "30": "After making it through harsh battles, clinching \nvictory in 7 graded mile races, reuniting with \nthe girl to who the vow was made bolsters her.",
         "31": "With the aim to run longer and stack up more \nvictories than anyone else, her full commitment \nto target races increases growth.",
         "32": "Feeling refreshed, and ready to take on the day! \nTaking a short breather recovers a bit of energy \nat the start of a turn.",
+        "45": "Training needs balance too! Once, when energy falls below\na set level, energy is recovered at the start of the turn.",
+        "47": "A mysterious power from Umas with the Aid Teaching.\nSlightly raises training effectiveness, up to 3 times.",
         "100": "Unlocks friendship training with Team Sirius \nHeals Insomnia and Lazy Habit.",
         "101": "Unlocks friendship training with \nThe Throne's Assemblage \nHeals Insomnia and Lazy Habit.",
         "102": "Unlocks friendship training \nwith Progenitors & Guides. \nClears Insomnia and Lazy Habit.",
@@ -39987,7 +40041,8 @@
         "9044": "A talented producer aiming for the peak of entertainment.",
         "9046": "Through perseverance she became the first Triple Crown Uma.",
         "9047": "A legendary pioneer, laying the road to the rest of the world.",
-        "9048": "A national star☆ An idol gathering massive attention♪"
+        "9048": "A national star☆ An idol gathering massive attention♪",
+        "9052": "Praying for an everlasting bond,\na guide who comes once in twelve years"
     },
     "147": {
         "101": "Speed",
@@ -43510,7 +43565,8 @@
         "9047": "May 3",
         "9048": "March 6",
         "9049": "June 21",
-        "9050": "April 7"
+        "9050": "April 7",
+        "9052": "Unknown"
     },
     "159": {
         "1001": "Late Surger",
@@ -43842,7 +43898,8 @@
         "9044": "My name is Ryoka Tsurugi. I spend my days producing all sorts of content. I strive to deliver the world's most engaging videos.",
         "9046": "I am Saint Light. As the first Uma to receive the Three Garlands, I shall entrust you with my knowledge and blessing.",
         "9047": "I'm Speed Symboli. I happen to know the endless possibilities that hide within you. Come, and we'll turn the world upside-down!",
-        "9048": "Hi there! I'm Haiseiko! Give this predecessor, this \"cutesy monster\" a little taste of your heart～! *Chomp♪*"
+        "9048": "Hi there! I'm Haiseiko! Give this predecessor, this \"cutesy monster\" a little taste of your heart～! *Chomp♪*",
+        "9052": "I am Azuma, shrine maiden of the Shuntaisai.\nLet us protect and cherish the bond between Umas\nand humans… and hand it on to the next generation."
     },
     "164": {
         "1001": "Giving in-depth food critiques",
@@ -44704,7 +44761,8 @@
         "9048": "Haiseiko",
         "9049": "Tucker Bryne",
         "9050": "Hoshina Kiyoko",
-        "9051": "Yunohana Bloom"
+        "9051": "Yunohana Bloom",
+        "9052": "Azuma"
     },
     "171": {
         "12": "Login Bonus",
@@ -47392,7 +47450,8 @@
         "9044": "Producer",
         "9047": "URA International Division Chief",
         "9048": "Active Idol",
-        "9050": "Proprietress"
+        "9050": "Proprietress",
+        "9052": "Shrine Maiden"
     },
     "174": {
         "9004": "Happy Meek",
@@ -47609,7 +47668,8 @@
         "9048": "Haiseiko",
         "9049": "Tucker Bryne",
         "9050": "Hoshina Kiyoko",
-        "9051": "Yunohana Bloom"
+        "9051": "Yunohana Bloom",
+        "9052": "Azuma"
     },
     "186": {
         "1": "Raise the lvl of your support cards \nto get a support bonus!",
@@ -50962,7 +51022,13 @@
         "92": "Can become a team member through special\nevents even if not in your support deck.",
         "93": "Will help with training as the scenario progresses.",
         "94": "Will help with training as the scenario progresses.",
-        "99": "Can become a team member through special\nevents even if not in your support deck."
+        "99": "Can become a team member through special\nevents even if not in your support deck.",
+        "103": "Some events in the main scenario change.\nBecomes a Performer through special events\neven if not in your support deck.\nAlways becomes the Yabusame Performer.",
+        "104": "Some events in the main scenario change.\nBecomes a Performer through special events\neven if not in your support deck.\nAlways becomes the Holy Dance Performer.",
+        "105": "Some events in the main scenario change.\nBecomes a Performer through special events\neven if not in your support deck.\nAlways becomes the Mikoshi Pull Performer.",
+        "106": "Some events in the main scenario change.\nBecomes a Performer through special events\neven if not in your support deck.\nAlways becomes the Flag Grab Performer.",
+        "107": "Some events in the main scenario change.\nBecomes a Performer through special events\neven if not in your support deck.\nAlways becomes the Hurdles Performer.",
+        "108": "Will help with training as the scenario progresses."
     },
     "199": {
         "21": "Improves some events.",
@@ -51004,7 +51070,11 @@
         "81": "Improves some events.",
         "82": "Improves some events.",
         "89": "Improves some events.",
-        "90": "Improves some events."
+        "90": "Improves some events.",
+        "103": "Improves some events.",
+        "104": "Improves some events.",
+        "105": "Improves some events.",
+        "106": "Improves some events."
     },
     "200": {
         "11": "Improves some events.",
@@ -51059,7 +51129,13 @@
         "91": "Improves some events.\nWill appear on the same facility as her\nsupport card when joining the team.",
         "92": "Improves some events.\nWill appear on the same facility as her\nsupport card when joining the team.",
         "93": "Improves some events. Increases DP gained\nat the first Strategy Meeting and subsequent Reviews.\nDP gain increased further when your deck includes\nSSR [American Dream] Casino Drive.",
-        "94": "Improves some events.\nIncreases chance of Super Recovery."
+        "94": "Improves some events.\nIncreases chance of Super Recovery.",
+        "103": "Improves some events.",
+        "104": "Improves some events.",
+        "105": "Improves some events.",
+        "106": "Improves some events.",
+        "107": "Improves some events.",
+        "108": "Improves some events.\nPrioritizes Performance Practice with\n4 or fewer participating Umas.\nRaises the Performance Lv cap when your deck includes\nSSR [What a Joyous Festival] Azuma."
     },
     "206": {
         "1": "Taurus Cup",
@@ -52237,7 +52313,8 @@
         "8": "Food Fest",
         "9": "Mecha",
         "11": "Island",
-        "12": "Hot Springs"
+        "12": "Hot Springs",
+        "15": "Shuntaisai"
     },
     "238": {
         "1001": "Speed +3",
@@ -52547,7 +52624,8 @@
         "1092": "◆ [Training] Feast at The Great Food Festival.",
         "1094": "Watch either of the following events in the Mecha Uma scenario:\n◆ Presentation: WIP\n◆ Presentation: Ideal",
         "1154": "◆ [Career] Complete the Island scenario.",
-        "1155": "◆ [Main Story] Watch Volume 2, Concluding Act, Ep. 12."
+        "1155": "◆ [Main Story] Watch Volume 2, Concluding Act, Ep. 12.",
+        "1195": "◆ [Career] Hold the Goshiki Shuntaisai."
     },
     "253": {
         "1001": "Please listen to Falko's thank you message \nafter the birthday live!"
@@ -71521,6 +71599,15 @@
         "41303101": "Learn 2 Dirt skills",
         "41305101": "Learn 2 Medium Distance skills",
         "41305102": "Learn 2 Long Distance skills",
+        "41501101": "Achieve a great success at every Progress Showcase and the Goshiki Shuntaisai",
+        "41502101": "Achieve a great success at every Progress Showcase and the Goshiki Shuntaisai",
+        "41503101": "Achieve a great success at every Progress Showcase and the Goshiki Shuntaisai",
+        "41504101": "Achieve a great success at every Progress Showcase and the Goshiki Shuntaisai",
+        "41505101": "Learn 2 Mile skills",
+        "41505102": "Learn 2 Medium Distance skills",
+        "41505103": "Achieve a great success at the Goshiki Shuntaisai",
+        "41506101": "Learn 2 Sprint skills",
+        "41506102": "Achieve a great success at the Goshiki Shuntaisai",
         "91109101": "Own ★３ [Eternal Fairytale] Rhein Kraft at the start of a Career.",
         "91109102": "Gain a hint from legacies at the start of a Career."
     },
@@ -73300,7 +73387,10 @@
         "1003": "G1 Race",
         "1004": "Saint Lite's Guidance",
         "1005": "Speed Symboli's Guidance",
-        "1006": "Haiseiko's Guidance"
+        "1006": "Haiseiko's Guidance",
+        "1501": "Friendship Training",
+        "1502": "Hint Event",
+        "1503": "G1 Race"
     },
     "388": {
         "1001": "Enter suitable races when\ntarget race's fan requirement is not met.",
@@ -73326,12 +73416,17 @@
         "13001": "Enter suitable races when\ntarget race's fan requirement is not met.",
         "13002": "Enter suitable races when\nfan target is not met.",
         "13003": "Enter suitable races when target race's\nminimum race requirement is not met.",
-        "13004": "Enter suitable races when\nno race has been won yet."
+        "13004": "Enter suitable races when\nno race has been won yet.",
+        "15001": "Enter suitable races when\ntarget race's fan requirement is not met.",
+        "15002": "Enter suitable races when\nfan target is not met.",
+        "15003": "Enter suitable races when target race's\nminimum race requirement is not met.",
+        "15004": "Enter suitable races when\nno race has been won yet."
     },
     "389": {
         "11101": "Event: トレセン島のススメ",
         "11102": "Event: タッカーさんからの、ご褒美!",
-        "12101": "Event: ある日、ゆこま温泉で……♪"
+        "12101": "Event: ある日、ゆこま温泉で……♪",
+        "15101": "Event: \"A Moment Before the Show\""
     },
     "390": {
         "10001": "Darley Arabian's Training",
@@ -73351,7 +73446,10 @@
         "130003": "Byerley Turk's Training",
         "140001": "Darley Arabian's Training",
         "140002": "Godolphin Barb's Training",
-        "140003": "Byerley Turk's Training"
+        "140003": "Byerley Turk's Training",
+        "150001": "Darley Arabian's Training",
+        "150002": "Godolphin Barb's Training",
+        "150003": "Byerley Turk's Training"
     },
     "391": {
         "10001": "Fairly balanced.",
@@ -73371,7 +73469,10 @@
         "130003": "Stat focus.",
         "140001": "Fairly balanced.",
         "140002": "Skill focus.",
-        "140003": "Stat focus."
+        "140003": "Stat focus.",
+        "150001": "Fairly balanced.",
+        "150002": "Skill focus.",
+        "150003": "Stat focus."
     },
     "392": {
         "10001": "Pause to select manually when \nmultiple commands match.",
@@ -73404,7 +73505,14 @@
         "130002": "Pause to select option manually \nat specific events.",
         "130004": "Pause at races that can be retried.",
         "130005": "Pause at Strategy Meetings.",
-        "130006": "Pause at legacy inheritance."
+        "130006": "Pause at legacy inheritance.",
+        "150001": "Pause to select manually when \nmultiple commands match.",
+        "150002": "Pause to select option manually \nat specific events.",
+        "150003": "Event: \"A Moment Before the Show\"",
+        "150004": "Pause at races that can be retried.",
+        "150006": "Pause at legacy inheritance.",
+        "150007": "Pause when imparting Teachings.",
+        "150008": "Pause at Teaching Transmutation."
     },
     "394": {
         "3": "Fans <color=#FF6D26>+{0}</color>",
@@ -73453,7 +73561,9 @@
         "47": "$(scale 90)Increases the Dream Gauge of team members \n<color=#FF6D26>{0} times</color>, starting with the lowest ones.",
         "48": "<atlas=SingleModeScenarioOnsen sprite=utx_ico_onsen_bathing_ticket_00/> Bath Tickets <color=#FF6D26>+{0}</color>",
         "49": "Super Recovery can start occurring",
-        "55": "Skill Pt<color=#2E85E6>-{0}</color>"
+        "55": "Skill Pt<color=#2E85E6>-{0}</color>",
+        "61": "Lowest Performance Lv <color=#FF6D26>+1</color>",
+        "63": "Performance Gauge <color=#FF6D26>+1</color>, lowest Lv first"
     },
     "397": {
         "1": "Yukoma Spring",
@@ -73630,7 +73740,9 @@
         "120001": "Don't retry races requiring unsuitable aptitudes",
         "120002": "Don't retry races below G1",
         "130001": "Don't retry races requiring unsuitable aptitudes",
-        "130002": "Don't retry races below G1"
+        "130002": "Don't retry races below G1",
+        "150001": "Don't retry races requiring unsuitable aptitudes",
+        "150002": "Don't retry races below G1"
     },
     "411": {
         "1": "Unset",
@@ -74229,5 +74341,249 @@
         "101": "Gain cap for Speed, Stamina, Guts, and Wit has <color=#ff6d26>increased by 100</color>.",
         "201": "Gain cap for Speed, Stamina, Power, and Wit has <color=#ff6d26>increased by 100</color>.",
         "301": "Gain cap for Speed, Power, Guts, and Wit has <color=#ff6d26>increased by 100</color>."
+    },
+    "393": {
+        "150001": "Scheduled Race",
+        "150002": "Friendship Training",
+        "150003": "Hint Event"
+    },
+    "458": {
+        "1": "Each Performer appears at their Performance Practice",
+        "2": "Stat gain <color=#ff911c>+10</color>",
+        "3": "Friendship Bonus <color=#ff911c>2%</color>",
+        "4": "With 5+ support card types in your deck:\nSkill Pt training bonus <color=#ff911c>20%</color>",
+        "5": "With 5+ support card types in your deck:\nhint events occur for all deck support cards\nexcept Friend and Group types",
+        "6": "Each Performer appears at their Performance Practice",
+        "7": "Stat gain <color=#ff911c>+10</color>",
+        "8": "Friendship Bonus <color=#ff911c>3%</color>",
+        "9": "With 5+ support card types in your deck:\nSkill Pt training bonus <color=#ff911c>25%</color>",
+        "10": "With 5+ support card types in your deck:\nhint events occur for all deck support cards\nexcept Friend and Group types",
+        "11": "Each Performer appears at their Performance Practice",
+        "12": "Stat gain <color=#ff911c>+10</color>",
+        "13": "Friendship Bonus <color=#ff911c>4%</color>",
+        "14": "With 5+ support card types in your deck:\nSkill Pt training bonus <color=#ff911c>30%</color>",
+        "15": "With 5+ support card types in your deck:\nhint events occur for all deck support cards\nexcept Friend and Group types",
+        "16": "Each Performer appears at their Performance Practice",
+        "17": "Stat gain <color=#ff911c>+10</color>",
+        "18": "Friendship Bonus <color=#ff911c>5%</color>",
+        "19": "With 5+ support card types in your deck:\nSkill Pt training bonus <color=#ff911c>40%</color>",
+        "20": "With 5+ support card types in your deck:\nhint events occur for all deck support cards\nexcept Friend and Group types",
+        "21": "With 5+ support card types in your deck,\nall hint events at the chosen training take effect",
+        "22": "With 5+ support card types in your deck:\nSkill Pt gain cap <color=#ff911c>+10</color>",
+        "23": "Each Performer appears at their Performance Practice",
+        "24": "Stat gain <color=#ff911c>+10</color>",
+        "25": "Friendship Bonus <color=#ff911c>6%</color>",
+        "26": "With 5+ support card types in your deck:\nSkill Pt training bonus <color=#ff911c>50%</color>",
+        "27": "With 5+ support card types in your deck:\nhint events occur for all deck support cards\nexcept Friend and Group types",
+        "28": "With 5+ support card types in your deck,\nall hint events at the chosen training take effect",
+        "29": "With 5+ support card types in your deck:\nSkill Pt gain cap <color=#ff911c>+20</color>",
+        "30": "Each Performer appears at their Performance Practice",
+        "31": "Stat gain <color=#ff911c>+10</color>",
+        "32": "Friendship Bonus <color=#ff911c>7%</color>",
+        "33": "With 5+ support card types in your deck:\nSkill Pt training bonus <color=#ff911c>60%</color>",
+        "34": "With 5+ support card types in your deck:\nhint events occur for all deck support cards\nexcept Friend and Group types",
+        "35": "With 5+ support card types in your deck,\nall hint events at the chosen training take effect",
+        "36": "With 5+ support card types in your deck:\nSkill Pt gain cap <color=#ff911c>+30</color>",
+        "37": "Each Performer appears at their Performance Practice",
+        "38": "Stat gain <color=#ff911c>+10</color>",
+        "39": "Friendship Bonus <color=#ff911c>8%</color>",
+        "40": "With 5+ support card types in your deck:\nSkill Pt training bonus <color=#ff911c>80%</color>",
+        "41": "With 5+ support card types in your deck:\nhint events occur for all deck support cards\nexcept Friend and Group types",
+        "42": "With 5+ support card types in your deck,\nall hint events at the chosen training take effect",
+        "43": "With 5+ support card types in your deck:\nSkill Pt gain cap <color=#ff911c>+50</color>",
+        "44": "Each Performer appears at their Performance Practice",
+        "45": "Stat gain <color=#ff911c>+10</color>",
+        "46": "Friendship Bonus <color=#ff911c>10%</color>",
+        "47": "With 5+ support card types in your deck:\nSkill Pt training bonus <color=#ff911c>100%</color>",
+        "48": "With 5+ support card types in your deck:\nhint events occur for all deck support cards\nexcept Friend and Group types",
+        "49": "With 5+ support card types in your deck,\nall hint events at the chosen training take effect",
+        "50": "With 5+ support card types in your deck:\nSkill Pt gain cap <color=#ff911c>+100</color>",
+        "51": "Each Performer appears at their Performance Practice",
+        "52": "Stat gain <color=#ff911c>+10</color>",
+        "53": "Friendship Bonus <color=#ff911c>12%</color>",
+        "54": "With 5+ support card types in your deck:\nSkill Pt training bonus <color=#ff911c>135%</color>",
+        "55": "With 5+ support card types in your deck:\nhint events occur for all deck support cards\nexcept Friend and Group types",
+        "56": "With 5+ support card types in your deck,\nall hint events at the chosen training take effect",
+        "57": "With 5+ support card types in your deck:\nStat gain cap <color=#ff911c>+20</color>",
+        "58": "With 5+ support card types in your deck:\nSkill Pt gain cap <color=#ff911c>+120</color>",
+        "59": "Each Performer appears at their Performance Practice",
+        "60": "Stat gain <color=#ff911c>+10</color>",
+        "61": "Friendship Bonus <color=#ff911c>15%</color>",
+        "62": "With 5+ support card types in your deck:\nSkill Pt training bonus <color=#ff911c>170%</color>",
+        "63": "With 5+ support card types in your deck:\nhint events occur for all deck support cards\nexcept Friend and Group types",
+        "64": "With 5+ support card types in your deck,\nall hint events at the chosen training take effect",
+        "65": "With 5+ support card types in your deck:\nStat gain cap <color=#ff911c>+25</color>",
+        "66": "With 5+ support card types in your deck:\nSkill Pt gain cap <color=#ff911c>+120</color>"
+    },
+    "461": {
+        "1": "Friendship Gauge <color=#ff911c>+3</color> for all deck support cards on training\n(does not stack)\nMain stat gain in Performance Practice <color=#ff911c>3%</color>",
+        "3": "Friendship Gauge <color=#ff911c>+3</color> for all deck support cards on training\n(does not stack)\nMain stat gain in Performance Practice <color=#ff911c>5%</color>",
+        "5": "Friendship Gauge <color=#ff911c>+3</color> for all deck support cards on training\n(does not stack)\nMain stat gain in Performance Practice <color=#ff911c>7%</color>",
+        "7": "Friendship Gauge <color=#ff911c>+3</color> for all deck support cards on training\n(does not stack)\nMain stat gain in Performance Practice <color=#ff911c>9%</color>",
+        "9": "Friendship Gauge <color=#ff911c>+3</color> for all deck support cards on training\n(does not stack)\nMain stat gain in Performance Practice <color=#ff911c>10%</color>",
+        "11": "Friendship Gauge <color=#ff911c>+3</color> for all deck support cards on training\n(does not stack)\nMain stat gain in Performance Practice <color=#ff911c>11%</color>",
+        "13": "Friendship Gauge <color=#ff911c>+3</color> for all deck support cards on training\n(does not stack)\nMain stat gain in Performance Practice <color=#ff911c>12%</color>",
+        "15": "Friendship Gauge <color=#ff911c>+3</color> for all deck support cards on training\n(does not stack)\nMain stat gain in Performance Practice <color=#ff911c>13%</color>",
+        "17": "Friendship Gauge <color=#ff911c>+3</color> for all deck support cards on training\n(does not stack)\nMain stat gain in Performance Practice <color=#ff911c>14%</color>",
+        "19": "Friendship Gauge <color=#ff911c>+3</color> for all deck support cards on training\n(does not stack)\nMain stat gain in Performance Practice <color=#ff911c>15%</color>",
+        "21": "Specialty Rate Boost <color=#ff911c>10</color>",
+        "22": "Specialty Rate Boost <color=#ff911c>13</color>",
+        "23": "Specialty Rate Boost <color=#ff911c>16</color>",
+        "24": "Specialty Rate Boost <color=#ff911c>20</color>",
+        "25": "Specialty Rate Boost <color=#ff911c>25</color>",
+        "26": "Specialty Rate Boost <color=#ff911c>30</color>",
+        "27": "Specialty Rate Boost <color=#ff911c>35</color>",
+        "28": "Specialty Rate Boost <color=#ff911c>40</color>",
+        "29": "Specialty Rate Boost <color=#ff911c>45</color>",
+        "30": "Specialty Rate Boost <color=#ff911c>50</color>",
+        "31": "Hint Rate Boost <color=#ff911c>30%</color>",
+        "32": "Hint Rate Boost <color=#ff911c>33%</color>",
+        "33": "Hint Rate Boost <color=#ff911c>36%</color>",
+        "34": "Hint Rate Boost <color=#ff911c>40%</color>",
+        "35": "Hint Rate Boost <color=#ff911c>45%</color>",
+        "36": "Hint Rate Boost <color=#ff911c>50%</color>",
+        "37": "Hint Rate Boost <color=#ff911c>55%</color>",
+        "38": "Hint Rate Boost <color=#ff911c>60%</color>",
+        "39": "Hint Rate Boost <color=#ff911c>70%</color>",
+        "40": "Hint Rate Boost <color=#ff911c>80%</color>",
+        "41": "Training bonus <color=#ff911c>20%</color> without Friendship Training\nGain <color=#ff911c>\"Aid's Support\"</color> from Performance Practice\n(Training bonus <color=#ff911c>5%</color>, up to 3 times)",
+        "43": "Training bonus <color=#ff911c>22%</color> without Friendship Training\nGain <color=#ff911c>\"Aid's Support\"</color> from Performance Practice\n(Training bonus <color=#ff911c>5%</color>, up to 3 times)",
+        "45": "Training bonus <color=#ff911c>24%</color> without Friendship Training\nGain <color=#ff911c>\"Aid's Support\"</color> from Performance Practice\n(Training bonus <color=#ff911c>5%</color>, up to 3 times)",
+        "47": "Training bonus <color=#ff911c>26%</color> without Friendship Training\nGain <color=#ff911c>\"Aid's Support\"</color> from Performance Practice\n(Training bonus <color=#ff911c>5%</color>, up to 3 times)",
+        "49": "Training bonus <color=#ff911c>28%</color> without Friendship Training\nGain <color=#ff911c>\"Aid's Support\"</color> from Performance Practice\n(Training bonus <color=#ff911c>5%</color>, up to 3 times)",
+        "51": "Training bonus <color=#ff911c>30%</color> without Friendship Training\nGain <color=#ff911c>\"Aid's Support\"</color> from Performance Practice\n(Training bonus <color=#ff911c>5%</color>, up to 3 times)",
+        "53": "Training bonus <color=#ff911c>32%</color> without Friendship Training\nGain <color=#ff911c>\"Aid's Support\"</color> from Performance Practice\n(Training bonus <color=#ff911c>5%</color>, up to 3 times)",
+        "55": "Training bonus <color=#ff911c>34%</color> without Friendship Training\nGain <color=#ff911c>\"Aid's Support\"</color> from Performance Practice\n(Training bonus <color=#ff911c>5%</color>, up to 3 times)",
+        "57": "Training bonus <color=#ff911c>37%</color> without Friendship Training\nGain <color=#ff911c>\"Aid's Support\"</color> from Performance Practice\n(Training bonus <color=#ff911c>5%</color>, up to 3 times)",
+        "59": "Training bonus <color=#ff911c>40%</color> without Friendship Training\nGain <color=#ff911c>\"Aid's Support\"</color> from Performance Practice\n(Training bonus <color=#ff911c>5%</color>, up to 3 times)",
+        "61": "Energy Usage Reduction <color=#ff911c>1%</color>",
+        "62": "Energy Usage Reduction <color=#ff911c>2%</color>",
+        "63": "Energy Usage Reduction <color=#ff911c>3%</color>",
+        "64": "Energy Usage Reduction <color=#ff911c>4%</color>",
+        "65": "Energy Usage Reduction <color=#ff911c>5%</color>",
+        "66": "Energy Usage Reduction <color=#ff911c>6%</color>",
+        "67": "Energy Usage Reduction <color=#ff911c>8%</color>",
+        "68": "Energy Usage Reduction <color=#ff911c>10%</color>",
+        "69": "Energy Usage Reduction <color=#ff911c>12%</color>",
+        "70": "Energy Usage Reduction <color=#ff911c>15%</color>",
+        "71": "Main stat gain boost <color=#ff911c>5%</color>\nStat gain cap <color=#ff911c>+5</color>",
+        "73": "Main stat gain boost <color=#ff911c>6%</color>\nStat gain cap <color=#ff911c>+6</color>",
+        "75": "Main stat gain boost <color=#ff911c>7%</color>\nStat gain cap <color=#ff911c>+7</color>",
+        "77": "Main stat gain boost <color=#ff911c>8%</color>\nStat gain cap <color=#ff911c>+8</color>",
+        "79": "Main stat gain boost <color=#ff911c>9%</color>\nStat gain cap <color=#ff911c>+9</color>",
+        "81": "Main stat gain boost <color=#ff911c>10%</color>\nStat gain cap <color=#ff911c>+10</color>",
+        "83": "Main stat gain boost <color=#ff911c>13%</color>\nStat gain cap <color=#ff911c>+13</color>",
+        "85": "Main stat gain boost <color=#ff911c>16%</color>\nStat gain cap <color=#ff911c>+16</color>",
+        "87": "Main stat gain boost <color=#ff911c>20%</color>\nStat gain cap <color=#ff911c>+20</color>",
+        "89": "Main stat gain boost <color=#ff911c>25%</color>\nStat gain cap <color=#ff911c>+25</color>",
+        "91": "At trainings with a Performer,\n\"Extra Practice\" event rate <color=#ff911c>20%</color>",
+        "92": "At trainings with a Performer,\n\"Extra Practice\" event rate <color=#ff911c>22%</color>",
+        "93": "At trainings with a Performer,\n\"Extra Practice\" event rate <color=#ff911c>24%</color>",
+        "94": "At trainings with a Performer,\n\"Extra Practice\" event rate <color=#ff911c>27%</color>",
+        "95": "At trainings with a Performer,\n\"Extra Practice\" event rate <color=#ff911c>30%</color>",
+        "96": "At trainings with a Performer,\n\"Extra Practice\" event rate <color=#ff911c>35%</color>",
+        "97": "At trainings with a Performer,\n\"Extra Practice\" event rate <color=#ff911c>40%</color>",
+        "98": "At trainings with a Performer,\n\"Extra Practice\" event rate <color=#ff911c>50%</color>",
+        "99": "At trainings with a Performer,\n\"Extra Practice\" event rate <color=#ff911c>65%</color>",
+        "100": "At trainings with a Performer,\n\"Extra Practice\" event rate <color=#ff911c>80%</color>",
+        "101": "Friendship Bonus <color=#ff911c>1%</color>\nPerformer support cards also appear\nat 1 additional random training",
+        "103": "Friendship Bonus <color=#ff911c>2%</color>\nPerformer support cards also appear\nat 1 additional random training",
+        "105": "Friendship Bonus <color=#ff911c>3%</color>\nPerformer support cards also appear\nat 1 additional random training",
+        "107": "Friendship Bonus <color=#ff911c>4%</color>\nPerformer support cards also appear\nat 1 additional random training",
+        "109": "Friendship Bonus <color=#ff911c>5%</color>\nPerformer support cards also appear\nat 1 additional random training",
+        "111": "Friendship Bonus <color=#ff911c>6%</color>\nPerformer support cards also appear\nat 1 additional random training",
+        "113": "Friendship Bonus <color=#ff911c>7%</color>\nPerformer support cards also appear\nat 1 additional random training",
+        "115": "Friendship Bonus <color=#ff911c>8%</color>\nPerformer support cards also appear\nat 1 additional random training",
+        "117": "Friendship Bonus <color=#ff911c>9%</color>\nPerformer support cards also appear\nat 1 additional random training",
+        "119": "Friendship Bonus <color=#ff911c>10%</color>\nPerformer support cards also appear\nat 1 additional random training",
+        "121": "Failure Rate Reduction <color=#ff911c>100%</color> at 45+ energy",
+        "122": "Failure Rate Reduction <color=#ff911c>100%</color> at 40+ energy",
+        "123": "Failure Rate Reduction <color=#ff911c>100%</color> at 35+ energy",
+        "124": "Failure Rate Reduction <color=#ff911c>100%</color> at 30+ energy",
+        "125": "Failure Rate Reduction <color=#ff911c>100%</color> at 25+ energy",
+        "126": "Failure Rate Reduction <color=#ff911c>100%</color> at 20+ energy",
+        "127": "Failure Rate Reduction <color=#ff911c>100%</color> at 15+ energy",
+        "128": "Failure Rate Reduction <color=#ff911c>100%</color> at 10+ energy\nPerformance Practice training bonus <color=#ff911c>1%</color>",
+        "130": "Failure Rate Reduction <color=#ff911c>100%</color> at 5+ energy\nPerformance Practice training bonus <color=#ff911c>3%</color>",
+        "132": "Failure Rate Reduction <color=#ff911c>100%</color>\nPerformance Practice training bonus <color=#ff911c>5%</color>",
+        "134": "Sub stat gain boost <color=#ff911c>1%</color>\nPerformance Practice training bonus <color=#ff911c>1%</color>",
+        "136": "Sub stat gain boost <color=#ff911c>2%</color>\nPerformance Practice training bonus <color=#ff911c>2%</color>",
+        "138": "Sub stat gain boost <color=#ff911c>3%</color>\nPerformance Practice training bonus <color=#ff911c>3%</color>",
+        "140": "Sub stat gain boost <color=#ff911c>4%</color>\nPerformance Practice training bonus <color=#ff911c>4%</color>",
+        "142": "Sub stat gain boost <color=#ff911c>5%</color>\nPerformance Practice training bonus <color=#ff911c>5%</color>",
+        "144": "Sub stat gain boost <color=#ff911c>8%</color>\nPerformance Practice training bonus <color=#ff911c>7%</color>",
+        "146": "Sub stat gain boost <color=#ff911c>11%</color>\nPerformance Practice training bonus <color=#ff911c>9%</color>",
+        "148": "Sub stat gain boost <color=#ff911c>15%</color>\nPerformance Practice training bonus <color=#ff911c>11%</color>",
+        "150": "Sub stat gain boost <color=#ff911c>20%</color>\nPerformance Practice training bonus <color=#ff911c>13%</color>",
+        "152": "Sub stat gain boost <color=#ff911c>25%</color>\nPerformance Practice training bonus <color=#ff911c>15%</color>"
+    },
+    "462": {
+        "1": "Yabusame",
+        "2": "Flag Grab",
+        "3": "Holy Dance",
+        "4": "Mikoshi Pull",
+        "5": "Hurdles"
+    },
+    "463": {
+        "101": "Bond Teaching",
+        "201": "Specialty Teaching",
+        "301": "Hint Teaching",
+        "401": "Aid Teaching",
+        "501": "Energy Teaching",
+        "601": "Focus Teaching",
+        "701": "Mastery Teaching",
+        "801": "Teamwork Teaching",
+        "901": "Grit Teaching",
+        "1001": "Balance Teaching"
+    },
+    "466": {
+        "1": "Main stat gain in Performance Practice <color=#ff911c>15%</color>\n1 extra Performer support card appears\nat training during camp",
+        "3": "Specialty Rate Boost <color=#ff911c>50</color>\nPerformance Practice Friendship Bonus <color=#ff911c>10%</color>",
+        "5": "Hint Rate Boost <color=#ff911c>80%</color>\nPerformance Practice hint events give <color=#ff911c>+1</color> hint",
+        "7": "Training bonus <color=#ff911c>20%</color> without Friendship Training\nGain <color=#ff911c>\"Aid's Support\"</color> from Performance Practice\n(Training bonus <color=#ff911c>5%</color>, up to 3 times)",
+        "9": "Performance Practice Energy Usage Reduction <color=#ff911c>15%</color>"
+    },
+    "496": {
+        "1": "The Uma chosen as archer gallops at full speed, shooting\ndown targets with the bow in her hands. Simple to describe,\nbut yabusame has many schools. At the Goshiki Shuntaisai,\nit is a rite of hitting targets set on a mountain before\nthe bonfires burn out. The arrows and targets that hit are\nhanded out to the crowd as good-luck charms.",
+        "2": "A rite held at the Soma Nomaoi, a traditional event of\nFukushima's Soma region. Wielding special poles modeled on\nweapons, Umas vie for two sacred flags shot into the sky.\nWhoever wins a flag charges up the slope to present it to\nthe commander. Taking the very first flag, the \"First Flag,\"\nis the highest honor a participant can earn.",
+        "3": "The Holy Dance raises the wishes of all who gather\nup to heaven. Its dancers hone their art to stir people's\nhearts, and to draw out more wishes, they commission a human\ncomposer for a rousing new song every festival. They hold\nfans to make the wind that carries wishes to heaven—and,\nso it's said, to catch the wishes in return.",
+        "4": "The Umas chosen as haulers pull a mikoshi many times their\nown size across a bridge built for the rite. Born from a\ncustom of hauling auspicious things, the mikoshi is painted\nwith \"happy things,\" mostly crops. The rite prays for a\nbountiful harvest and… the health and safety of the\nUmas who haul it.",
+        "5": "Hurdles is a rite praying that Umas overcome every\nobstacle life puts before them, so its obstacles take many\nforms beyond hurdles and hedges. In some regions, young\nUmas who have just learned to run do a simple version.\nThough it began in Japan, many researchers liken it to\na certain sport that developed in the West."
+    },
+    "498": {
+        "1": "Please choose the Teachings to impart\nin keeping with each Performer's nature.",
+        "2": "Once Shuntaisai Camp begins, you may practice intensively.\nBear that in mind as you choose your Teachings.",
+        "3": "Transmuted Teachings are all exceedingly potent.\nBuild your choices around them.",
+        "4": "Once Shuntaisai Camp begins, you may practice intensively.\nBear that in mind as you choose your Teachings.",
+        "5": "Transmuted Teachings are all exceedingly potent.\nBuild your choices around them.",
+        "6": "Once Shuntaisai Camp begins, you may practice intensively.\nBear that in mind as you choose your Teachings."
+    },
+    "499": {
+        "1": "Energy <color=#ff911c>+30</color>",
+        "2": "Motivation <color=#ff911c>+1</color>",
+        "3": "Failure Rate Reduction <color=#ff911c>100%</color>",
+        "4": "1 extra deck support card (except Friend and\nGroup types) appears at every Performance Practice"
+    },
+    "501": {
+        "1": "Specialty Rate Boost <color=#ff911c>20</color>",
+        "2": "Specialty Rate Boost <color=#ff911c>20</color>",
+        "3": "Hint Rate <color=#ff911c>20%</color>",
+        "4": "Friendship Bonus <color=#ff911c> 5%</color>",
+        "5": "Specialty Rate Boost <color=#ff911c>40</color>",
+        "6": "Hint Rate <color=#ff911c>50%</color>",
+        "7": "Friendship Bonus <color=#ff911c> 5%</color>",
+        "8": "Specialty Rate Boost <color=#ff911c>40</color>",
+        "9": "Hint Rate <color=#ff911c>50%</color>",
+        "10": "Friendship Bonus <color=#ff911c> 10%</color>",
+        "11": "Specialty Rate Boost <color=#ff911c>60</color>",
+        "12": "Hint Rate <color=#ff911c>100%</color>",
+        "13": "Friendship Bonus <color=#ff911c> 10%</color>",
+        "14": "Specialty Rate Boost <color=#ff911c>60</color>",
+        "15": "Hint Rate <color=#ff911c>100%</color>",
+        "16": "Race Bonus <color=#ff911c>30%</color>",
+        "17": "Friendship Bonus <color=#ff911c> 20%</color>",
+        "18": "Specialty Rate Boost <color=#ff911c>80</color>",
+        "19": "Hint Rate <color=#ff911c>150%</color>",
+        "20": "Race Bonus <color=#ff911c>100%</color>"
     }
 }
